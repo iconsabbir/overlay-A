@@ -1,0 +1,68 @@
+
+
+@media(max-width:991px) {
+
+ .overley{
+    flex-wrap: wrap;
+   
+    justify-content: space-between;
+    width: 90%;
+    
+ }
+.overlay-fead{
+    margin-bottom: 20px;
+} 
+
+
+.overlay-slid{
+    flex-wrap: wrap;
+   width: 90%;
+   
+}
+.slid-top{
+    margin-bottom: 28px;
+}
+
+.right{
+    margin-bottom: 28px;
+}
+.lefi-right{
+    flex-wrap: wrap;
+    width: 90%;
+    
+}
+.right-slid{
+    
+}
+.left{
+    width: 108%;
+}
+
+.zoom-title-section{
+    flex-wrap: wrap;
+    width: 90%;
+}
+.zoom{
+    margin-bottom: 28px;
+}
+.lest-section{
+    justify-content: center;
+    width: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+}
